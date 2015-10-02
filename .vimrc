@@ -12,7 +12,7 @@ set foldmethod=indent
 "prevents docstrings from showing up automatically
 autocmd FileType python setlocal completeopt-=preview 
 
-colorscheme soda 
+colorscheme playroom 
 
 "map vim shortcuts
 map <C-n> :NERDTreeToggle<CR>
